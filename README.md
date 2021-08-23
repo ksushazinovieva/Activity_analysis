@@ -1,4 +1,4 @@
 # Activity_analysis
 Курс по анализу активности человека.
-Задание по [ссылке] (https://www.kaggle.com/c/activity-analysis/overview).
+Задание по [ссылке](https://www.kaggle.com/c/activity-analysis/overview).
 Ноутбук с тренировочной выборкой весит слишком много, поэтому здесь коды для работы с тестовой выборкой и ноутбук с обучалкой по pandas.
